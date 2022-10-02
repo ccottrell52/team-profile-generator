@@ -6,4 +6,4 @@ It uses ORM and node to organize the code and is a great way to organize your bu
 
 
 
-![alt text](utils/2022-10-02_9-10-10.jpg
+![alt text](utils/2022-10-02_9-10-10.jpg)
