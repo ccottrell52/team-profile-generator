@@ -1,0 +1,26 @@
+{
+    "name": "team-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ccottrell52/team-profile-generator.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/ccottrell52/team-profile-generator/issues"
+    },
+    "homepage": "https://github.com/ccottrell52/team-profile-generator/blob/main/README.md",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^28.1.3"
+    }
+  }
